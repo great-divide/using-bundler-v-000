@@ -17,3 +17,6 @@ gem 'awesome_print'
 group :test do
   gem 'rspec'
 end
+
+
+:git => 'https://github.com/tenderlove/nokogiri.git'
